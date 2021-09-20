@@ -2,7 +2,7 @@
 ## Objetivo
 Mi Entradita es un proyecto pensado para que entidades de deportes en equipos puedan, a traves de un sitio web, facilitar a los espectadores de los encuentros la reserva de su entrada, las cuales estaran limitadas por el contexto de pandemia que estamos atravesando.
 
-![mi-entradita-logo](imagenes/mi-entradita-logo.png)
+![mi-entradita-logo](https://github.com/FeNixCrew/MiEntradita-doc/blob/main/imagenes/logoBlack.png?raw=true)
 
 
 ## Repositorios
