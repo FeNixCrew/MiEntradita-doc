@@ -6,8 +6,10 @@ Mi Entradita es un proyecto pensado para que entidades de deportes en equipos pu
 
 
 ## Repositorios
+:memo: Wiki: https://github.com/FeNixCrew/MiEntradita-doc/wiki :memo:
+
 :man_cook: Backend: https://github.com/FeNixCrew/MiEntradita-backend :man_cook:
 
 :woman_cook: Frontend: https://github.com/FeNixCrew/MiEntradita-frontend :woman_cook:
 
-🤼‍♂️ Wiki: https://github.com/FeNixCrew/MiEntradita-doc/wiki 🤼‍♂️
+:construction_worker: Trello: https://trello.com/b/AFbHiaWY/mientradita :construction_worker:
